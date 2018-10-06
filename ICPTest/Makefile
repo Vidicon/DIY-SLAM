@@ -1,4 +1,4 @@
-PRODUCT=lidar
+PRODUCT=IcpTest
 
 CFLAGS= -pedantic -ggdb -O0 -std=c++11
 
